@@ -1,0 +1,19 @@
+[Eagle]
+Version="08 03 01"
+Platform="Linux"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="piboy_new.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="351 28 1365 696"
+State=2
+Number=0
+
+[Desktop]
+Screen="1366 768"
+Window="Win_1"
